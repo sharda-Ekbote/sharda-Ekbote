@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharda-Ekbote
-- 👀 I’m interested in cloud computing, open-source projects
+- 👀 I’m interested in cloud computing, AWS open-source projects
 - 🌱 I’m currently learning AWS services, infrastructure as code, containerization
 - 📫 How to reach me sharda.ekbote@gmail.com
 - 🎯 2025 Goals: To get placed in good company with handsome package
