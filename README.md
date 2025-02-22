@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @sharda-Ekbote
 - 👀 I’m interested in cloud computing, open-source projects
 - 🌱 I’m currently learning AWS services, infrastructure as code, containerization
-- 💞️ I’m looking to collaborate on cloud-native applications, automation scripts
 - 📫 How to reach me sharda.ekbote@gmail.com
-- 😄 Pronouns: She
+- 🎯 2025 Goals: To get placed in good company with handsome package
 - ⚡ Fun fact: I enjoy reading books recently completed
      jane austen pride and prejudice 
 
